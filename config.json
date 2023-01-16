@@ -1,9 +1,9 @@
 {
     "configVersion": 2,
-    "appIdentifier": "com.retreadworkorderqa.mobile",
-    "appName": "Retread Casing QA",
+    "appIdentifier": "com.retreadworkorder.mobile",
+    "appName": " Retread Casing Staging",
     "bundleName": {
-        "main": "RetreadCasingQA",
+        "main": "RetreadCasingSt",
         "dev": "RetreadCasinDev"
     },
     "deviceTarget": {
@@ -127,7 +127,7 @@
             "enabled": false
         }
     },
-    "appVersion": "1.0.270",
-    "buildNumber": 270,
-    "runtimeUrl": "https://Retread-Casing-Work-Order-7-X-QAS.cfapps.us10.hana.ondemand.com"
+    "appVersion": "1.0.282",
+    "buildNumber": 282,
+    "runtimeUrl": "https://retread-casing-work-order-7-x-stage.cfapps.us10.hana.ondemand.com"
 }
